@@ -1,0 +1,49 @@
+{
+  "name": "blankslate-extension-pack",
+  "displayName": "Blankslate Extension Pack",
+  "description": "Useful extensions when starting a Blankslate Python project!",
+  "version": "0.0.1",
+  "publisher": "unkokaeru",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "aaron-bond.better-comments",
+    "cschleiden.vscode-github-actions",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "GitHub.copilot",
+    "GitHub.vscode-pull-request-github",
+    "Gruntfuggly.todo-tree",
+    "KevinRose.vsc-python-indent",
+    "magicstack.MagicPython",
+    "matangover.mypy",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "njpwerner.autodocstring",
+    "njqdev.vscode-python-typehint",
+    "oderwat.indent-rainbow",
+    "pixl-garden.BongoCat",
+    "the-compiler.python-tox",
+    "TinyMooshGamesInc.tree-exporter",
+    "tomoki1207.pdf",
+    "VisualStudioExptTeam.intellicode-api-usage-examples",
+    "VisualStudioExptTeam.vscodeintellicode"
+  ],
+  "icon": "images/circle.png",
+  "author": {
+    "name": "unkokaeru",
+    "email": "wills@fayers.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unkokaeru/blankslate-extension-pack"
+  },
+  "bugs": {
+    "url": "https://github.com/unkokaeru/blankslate-extension-pack/issues"
+  },
+  "license": "MIT"
+}
