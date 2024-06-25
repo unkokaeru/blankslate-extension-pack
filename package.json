@@ -2,7 +2,7 @@
   "name": "blankslate-extension-pack",
   "displayName": "Blankslate Extension Pack",
   "description": "Useful extensions when starting a Blankslate Python project!",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "unkokaeru",
   "engines": {
     "vscode": "^1.88.0"
